@@ -5,6 +5,7 @@ import numpy as np
 from keras.models import Sequential
 from keras.layers import LSTM, Dense, Dropout, Masking, Embedding
 
+# testing comment, this comment has no use asdfsdf
 
 samples = ["Set total to zero", "Assign 5 to variable x", "Add 3 to 4",
             "Assign 0 to num", "Display the word 'hello'", "Print 'hi'",
